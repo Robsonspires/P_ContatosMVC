@@ -1,0 +1,1112 @@
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\appsettings.Development.json
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\appsettings.json
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ControleDeContatos.staticwebassets.runtime.json
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ControleDeContatos.exe
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ControleDeContatos.deps.json
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ControleDeContatos.runtimeconfig.json
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ControleDeContatos.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ControleDeContatos.pdb
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Azure.Core.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Azure.Identity.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Humanizer.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\MessagePack.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\MessagePack.Annotations.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\NuGet.Common.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.CodeDom.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.csproj.AssemblyReference.cache
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.AssemblyInfoInputs.cache
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.AssemblyInfo.cs
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.csproj.CoreCompileInputs.cache
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.MvcApplicationPartsAssemblyInfo.cache
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.RazorAssemblyInfo.cache
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.RazorAssemblyInfo.cs
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\staticwebassets\msbuild.ControleDeContatos.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\staticwebassets\msbuild.build.ControleDeContatos.props
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ControleDeContatos.props
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ControleDeContatos.props
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\staticwebassets.build.json
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\staticwebassets.development.json
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutDeslogado.cshtml.rz.scp.css
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\scopedcss\bundle\ControleDeContatos.styles.css
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\scopedcss\projectbundle\ControleDeContatos.bundle.scp.css
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.csproj.CopyComplete
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\refint\ControleDeContatos.dll
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.pdb
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.genruntimeconfig.cache
+C:\Usr\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ref\ControleDeContatos.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\appsettings.Development.json
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\appsettings.json
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ControleDeContatos.staticwebassets.runtime.json
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ControleDeContatos.exe
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ControleDeContatos.deps.json
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ControleDeContatos.runtimeconfig.json
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ControleDeContatos.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ControleDeContatos.pdb
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Azure.Core.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Azure.Identity.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Humanizer.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\MessagePack.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\MessagePack.Annotations.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.Build.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\NuGet.Common.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.CodeDom.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.csproj.AssemblyReference.cache
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.AssemblyInfoInputs.cache
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.AssemblyInfo.cs
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.csproj.CoreCompileInputs.cache
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.MvcApplicationPartsAssemblyInfo.cache
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.RazorAssemblyInfo.cache
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.RazorAssemblyInfo.cs
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\staticwebassets\msbuild.ControleDeContatos.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\staticwebassets\msbuild.build.ControleDeContatos.props
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ControleDeContatos.props
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ControleDeContatos.props
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\staticwebassets.build.json
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\staticwebassets.development.json
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutDeslogado.cshtml.rz.scp.css
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\scopedcss\bundle\ControleDeContatos.styles.css
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\scopedcss\projectbundle\ControleDeContatos.bundle.scp.css
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.csproj.CopyComplete
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\refint\ControleDeContatos.dll
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.pdb
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.genruntimeconfig.cache
+D:\Usr\Cursos\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ref\ControleDeContatos.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\appsettings.Development.json
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\appsettings.json
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ControleDeContatos.staticwebassets.runtime.json
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ControleDeContatos.exe
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ControleDeContatos.deps.json
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ControleDeContatos.runtimeconfig.json
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ControleDeContatos.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ControleDeContatos.pdb
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Azure.Core.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Azure.Identity.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Humanizer.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\MessagePack.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\MessagePack.Annotations.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.Build.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\NuGet.Common.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.CodeDom.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.csproj.AssemblyReference.cache
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.AssemblyInfoInputs.cache
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.AssemblyInfo.cs
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.csproj.CoreCompileInputs.cache
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.MvcApplicationPartsAssemblyInfo.cache
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.RazorAssemblyInfo.cache
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.RazorAssemblyInfo.cs
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\staticwebassets\msbuild.ControleDeContatos.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\staticwebassets\msbuild.build.ControleDeContatos.props
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ControleDeContatos.props
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ControleDeContatos.props
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\staticwebassets.build.json
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\staticwebassets.development.json
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutDeslogado.cshtml.rz.scp.css
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\scopedcss\bundle\ControleDeContatos.styles.css
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\scopedcss\projectbundle\ControleDeContatos.bundle.scp.css
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.csproj.CopyComplete
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\refint\ControleDeContatos.dll
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.pdb
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.genruntimeconfig.cache
+D:\Usr\Cursos\Anterior Shirley\VisualStudio\MVC\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ref\ControleDeContatos.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\appsettings.Development.json
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\appsettings.json
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ControleDeContatos.staticwebassets.runtime.json
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ControleDeContatos.exe
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ControleDeContatos.deps.json
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ControleDeContatos.runtimeconfig.json
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ControleDeContatos.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ControleDeContatos.pdb
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Azure.Core.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Azure.Identity.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Humanizer.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\MessagePack.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\MessagePack.Annotations.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.Build.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\NuGet.Common.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.CodeDom.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.csproj.AssemblyReference.cache
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.AssemblyInfoInputs.cache
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.AssemblyInfo.cs
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.csproj.CoreCompileInputs.cache
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.MvcApplicationPartsAssemblyInfo.cache
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.RazorAssemblyInfo.cache
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.RazorAssemblyInfo.cs
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\staticwebassets\msbuild.ControleDeContatos.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\staticwebassets\msbuild.build.ControleDeContatos.props
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.ControleDeContatos.props
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.ControleDeContatos.props
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\staticwebassets.build.json
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\staticwebassets.development.json
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\scopedcss\Views\Shared\_LayoutDeslogado.cshtml.rz.scp.css
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\scopedcss\bundle\ControleDeContatos.styles.css
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\scopedcss\projectbundle\ControleDeContatos.bundle.scp.css
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.csproj.CopyComplete
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\refint\ControleDeContatos.dll
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.pdb
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ControleDeContatos.genruntimeconfig.cache
+D:\Usr\Projetos\ControleDeContatos\ControleDeContatos\obj\Debug\net7.0\ref\ControleDeContatos.dll
