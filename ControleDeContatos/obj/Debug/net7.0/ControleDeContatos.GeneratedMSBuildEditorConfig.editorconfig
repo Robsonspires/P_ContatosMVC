@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Usr\Projetos\ControleDeContatos\ControleDeContatos
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Usr/Projetos/ControleDeContatos/ControleDeContatos/Views/AlterarSenha/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWx0ZXJhclNlbmhhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Usr/Projetos/ControleDeContatos/ControleDeContatos/Views/Contato/ApagarConfirmacao.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b1xBcGFnYXJDb25maXJtYWNhby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
