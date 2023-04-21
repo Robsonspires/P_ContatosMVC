@@ -3,6 +3,8 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Filters;
 using Newtonsoft.Json;
 
+#nullable disable
+
 namespace ControleDeContatos.Filters
 {
     public class PaginaRestritaSomenteAdmin : ActionFilterAttribute

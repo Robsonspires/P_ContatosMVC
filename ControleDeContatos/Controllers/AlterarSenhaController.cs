@@ -1,4 +1,5 @@
-﻿using ControleDeContatos.Helper;
+﻿using ControleDeContatos.Filters;
+using ControleDeContatos.Helper;
 using ControleDeContatos.Models;
 using ControleDeContatos.Repositorio;
 using Microsoft.AspNetCore.Mvc;
@@ -7,6 +8,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace ControleDeContatos.Controllers
 {
+    [PaginaparaUsuarioLogado]
+
     public class AlterarSenhaController : Controller
     {
         private readonly IUsuarioRepositorio _usuarioRepositorio;
